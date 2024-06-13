@@ -1,0 +1,11 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int xstoves,ymin;
+	cin >> xstoves >> ymin;
+	int total = xstoves*1*ymin;
+	cout<<total;
+
+}
